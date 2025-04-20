@@ -1,5 +1,7 @@
 # ICT_Practical_HTML
 # Hello JOSEPHITES!!!
+> [!important]
+> Please read the security.md and LICENSE carefully before procedding.
 I have released the code of ICT HTML practical.
 I hope this will help you.
 If you have any problem I request you to pull a request or try any of these methods⬇️
