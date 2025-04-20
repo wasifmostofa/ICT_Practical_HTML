@@ -1,7 +1,7 @@
 # ICT_Practical_HTML
 # Hello JOSEPHITES!!!
 > [!important]
-> Please read the [security.md](https://github.com/wasifmostofa/ICT_Practical_HTML/blob/main/SECURITY.md) and [LICENSE](https://github.com/wasifmostofa/ICT_Practical_HTML/blob/main/LICENSE) carefully before procedding.
+> Please read the [security.md](https://github.com/wasifmostofa/ICT_Practical_HTML/blob/main/SECURITY.md) and [LICENSE](https://github.com/wasifmostofa/ICT_Practical_HTML/blob/main/LICENSE) carefully before proceeding.
 
 I have released the code of ICT HTML practical.
 I hope this will help you.
