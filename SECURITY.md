@@ -13,10 +13,9 @@ I currently maintain only the latest version of this project.
 
 ## 📣 Reporting a Vulnerability
 
-If you find a security issue, **please do not open a public GitHub issue**.
-
-Instead, report it privately to me through one of the following:
-
+> [!IMPORTANT]
+> If you find a security issue, **please open a issue**.\
+Or, you can report it privately to me through one of the following:
 - 📧 Email: [wasif.mostofa08@gmail.com]
 - 🌐 Website: [https://wasif.web.app](https://wasif.web.app)
 
